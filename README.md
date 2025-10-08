@@ -1,3 +1,4 @@
 # 211-practice
 # good morning
-# good afternoon
+/n hello
+/n Goodbye
